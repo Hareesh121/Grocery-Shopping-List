@@ -1,0 +1,93 @@
+
+   [
+        {   "Slno":"1",
+            "name": "Rice",
+            "Quantity":"5",
+            "Unit":"kilogram",
+            "Department":"food item",
+            "Notes":"Not the brown rice !!"
+        },
+
+        {
+            "Slno":"2",
+            "name": "Sugar",
+            "Quantity":"1",
+            "Unit":"kilogram",
+            "Department":"food item",
+            "Notes":"Do check the quality !"
+        },
+
+        {
+            "Slno":"3",
+            "name": "Onion",
+            "Quantity":"2",
+            "Unit":"kilogram",
+            "Department":"food item",
+            "Notes":"Big onion not the small ones"
+        },
+
+        {
+            "Slno":"4",
+            "name": "Cooking Oil",
+            "Quantity":"1",
+            "Unit":"litre",
+            "Department":"food item",
+            "Notes":"Choose the best one"
+        },
+        {
+            "Slno":"5",
+            "name": "Milk",
+            "Quantity":"1",
+            "Unit":"litre",
+            "Department":"food item",
+            "Notes":"Make sure its Milma"
+        },
+
+        {
+            "Slno":"6",
+            "name": "Notebooks",
+            "Quantity":"3",
+            "Unit":"Numbers",
+            "Department":"stationary",
+            "Notes":"Make sure it is of 200 pages"
+        },
+
+        {
+            "Slno":"7",
+            "name": "Pen",
+            "Quantity":"4",
+            "Unit":"Numbers",
+            "Department":"stationary",
+            "Notes":"Make sure its a ballpoint pen"
+        },
+
+        {
+            "Slno":"8",
+            "name": "Disinfectant",
+            "Quantity":"2",
+            "Unit":"Numbers",
+            "Department":"health care",
+            "Notes":"Best one in the shop"
+        },
+
+
+        {
+            "Slno":"9",
+            "name": "Soap",
+            "Quantity":"4",
+            "Unit":"Numbers",
+            "Department":"health care",
+            "Notes":" Bathing soap"
+        },
+
+
+        {
+            "Slno":"10",
+            "name": "Green gram",
+            "Quantity":"400",
+            "Unit":"gram",
+            "Department":"food item",
+            "Notes":"Good quality"
+        }
+        
+    ]
